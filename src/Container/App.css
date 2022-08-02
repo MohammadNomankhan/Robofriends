@@ -1,0 +1,7 @@
+.custom-bg{
+
+	background-image: linear-gradient(90deg, #ffe259 , #ffa751);
+	background-position: center;
+	background-size: cover;
+	height: 150vh;
+}
